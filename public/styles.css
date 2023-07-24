@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+}
+nav{
+    background-color: hotpink; 
+    margin: 0%; 
+    display: inline-block;
+    width: fit-content;
+    height: 100vh;
+    position: sticky;
+}  
+ul{
+    margin: 0%;
+    position: relative;
+    top: 100px;
+}
+li{
+    list-style-type: none; 
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: black
+}
